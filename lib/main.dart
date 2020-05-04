@@ -16,10 +16,6 @@ class MyApp extends StatelessWidget {
               Container(
                 height: 100.0,
                 width: 100.0,
-                margin: EdgeInsets.symmetric(
-                  vertical: 50.0,
-                  horizontal: 10.0,
-                ),
                 color: Colors.white,
                 child: Center(
                   child: Text("Container 1"),
@@ -28,10 +24,6 @@ class MyApp extends StatelessWidget {
               Container(
                 height: 100.0,
                 width: 100.0,
-                margin: EdgeInsets.symmetric(
-                  vertical: 50.0,
-                  horizontal: 10.0,
-                ),
                 color: Colors.white,
                 child: Center(
                   child: Text("Container 2"),
