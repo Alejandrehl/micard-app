@@ -1,5 +1,3 @@
-### Notes
-
 - Hot reload just work in Widgets outside main function
 - `Container`widget is like a div
 - Always work with `SafeArea` widget will prevent future problems 
@@ -8,6 +6,8 @@
 - `Column` can accept multiple params like `verticalDirection: VerticalDirection.up`
  or `mainAxisAlignment: MainAxisAlignment.end`
  - Config to assets, fonts, etc must be set in `pubspec.yaml`. After config fonts you need restart project.
+ 
+![project-showcase]()
  
 ### Links
  
