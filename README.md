@@ -4,6 +4,7 @@
 - `Container`widget is like a div
 - Always work with `SafeArea` widget will prevent future problems 
 - The way of apply margins is use `EdgeInsets` methods 
+- `Column` widget accept an array of widgets 
 
 ### Links
  
