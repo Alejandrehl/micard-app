@@ -7,7 +7,7 @@
  or `mainAxisAlignment: MainAxisAlignment.end`
  - Config to assets, fonts, etc must be set in `pubspec.yaml`. After config fonts you need restart project.
  
-![project-showcase]()
+![project-showcase](https://github.com/Alejandrehl/micard-app/blob/master/images/readme.png)
  
 ### Links
  
