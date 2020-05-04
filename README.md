@@ -6,7 +6,7 @@
 - The way of apply margins is use `EdgeInsets` methods 
 - `Column` widget accept an array of widgets 
 - `Column` can accept multiple params like `verticalDirection: VerticalDirection.up`
-
+ or `mainAxisAlignment: MainAxisAlignment.end`
 ### Links
  
 - [Widgets Catalog](https://flutter.dev/docs/development/ui/widgets)
