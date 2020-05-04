@@ -7,7 +7,7 @@
 - `Column` widget accept an array of widgets 
 - `Column` can accept multiple params like `verticalDirection: VerticalDirection.up`
  or `mainAxisAlignment: MainAxisAlignment.end`
- - Config to assets, fonts, etc must be set in `pubspec.yaml`
+ - Config to assets, fonts, etc must be set in `pubspec.yaml`. After config fonts you need restart project.
  
 ### Links
  
