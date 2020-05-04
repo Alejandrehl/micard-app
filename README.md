@@ -1,8 +1,9 @@
 ### Notes
 
 - Hot reload just work in Widgets outside main function
-- Container() is like a div
-- Always work with SafeArea Widget will prevent future problems 
+- `Container`widget is like a div
+- Always work with `SafeArea` widget will prevent future problems 
+- The way of apply margins is use `EdgeInsets` methods 
 
 ### Links
  
