@@ -5,6 +5,7 @@
 - Always work with `SafeArea` widget will prevent future problems 
 - The way of apply margins is use `EdgeInsets` methods 
 - `Column` widget accept an array of widgets 
+- `Column` can accept multiple params like `verticalDirection: VerticalDirection.up`
 
 ### Links
  
